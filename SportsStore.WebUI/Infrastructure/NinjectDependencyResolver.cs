@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web.Mvc;
 using Moq;
 using Ninject;
+using SportsStore.Domain.Concrete;
 using SportsStore.Domain.Abstract;
 using SportsStore.Domain.Entities;
 namespace SportsStore.WebUI.Infrastructure
@@ -32,7 +33,8 @@ namespace SportsStore.WebUI.Infrastructure
                 new Product { Name = "Patyczak dorosły", Price = 179 },
                 new Product { Name = "Patyczak średni", Price = 95 }
             });
-            kernel.Bind<IProductRepository>().ToConstant(mock.Object);
+            //kernel.Bind<IProductRepository>().ToConstant(mock.Object);
+            kernel.Bind<IProductRepository>().To<EFProductRepository>();
         }
     }
 }

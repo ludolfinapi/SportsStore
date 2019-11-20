@@ -4,3 +4,9 @@ C:\Users\E9900\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore
 C:\Users\E9900\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.CoreCompileInputs.cache
 C:\Users\E9900\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 C:\Users\E9900\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\E9900\source\repos\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\E9900\source\repos\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\E9900\source\repos\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E9900\source\repos\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\E9900\source\repos\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E9900\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.CopyComplete
